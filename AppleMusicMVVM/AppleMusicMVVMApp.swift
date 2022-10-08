@@ -11,7 +11,7 @@ import SwiftUI
 struct AppleMusicMVVMApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FirstScren()
         }
     }
 }
